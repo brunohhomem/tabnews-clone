@@ -1,0 +1,8 @@
+.next/
+package-lock.json
+dist/
+build/
+coverage/
+.vscode/
+.idea/
+.DS_Store
