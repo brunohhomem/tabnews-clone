@@ -1,0 +1,8 @@
+# Baixar editorconfig for vscode
+# https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
